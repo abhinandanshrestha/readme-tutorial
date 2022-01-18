@@ -57,5 +57,11 @@ Type of Link
     * Somali
 
 # Paragraphs
+### Hard breaks (One blank line)
 Hello World
+
+I'm Abhinandan
+
+### Soft breaks (Double space at the end of everyline)
+Hello World  
 I'm Abhinandan
