@@ -25,7 +25,12 @@ Type of Link
 
 
 ### Image
-![Alternative Text](https://manandharsudip4.com.np/public/uploads/cp/cp20211206041519am.png)
+![Alternative Text](https://static.libertyprim.com/files/familles/banane-large.jpg?1569271725)
+
+
+![Tiger][ref]
+
+[ref]: https://static.libertyprim.com/files/familles/banane-large.jpg?1569271725
 
 
 # Block quote
