@@ -13,16 +13,15 @@ Type of Link
 2. Reference
 
 
-## Author
+## Author(Inline)
 [MS](https://manandharsudip4.com.np/)
-[GG][MSProf]
 
 
 ## Author (Reference Link)
-[GG][MSProf]
+[MS][MSkowebsite]
 
 
-[MSProf]: https://manandharsudip4.com.np/
+[MSkowebsite]: https://manandharsudip4.com.np/
 
 
 ### Image
